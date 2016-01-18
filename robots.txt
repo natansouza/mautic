@@ -5,4 +5,4 @@ Disallow: /app/
 Disallow: /media/
 Disallow: /themes/
 Disallow: /translations/
-Disallow: /vendor/
+Disallow: /vendor/ 
